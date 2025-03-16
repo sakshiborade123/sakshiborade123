@@ -1,7 +1,7 @@
 
 👋 Hi, I’m @sakshiborade123  
 - 👀 I’m interested in Web Development, Problem-Solving, and Building Scalable Applications.  
-- 🌱 I’m currently learning advanced concepts in Java, MySQL, and WebRTC.  
+- 🌱 I’m currently learning advanced concepts in Java, Core Java,C Programming, MySQL,HTML, CSS,Javascript .  
 - 💞️ I’m looking to collaborate on real-time applications and innovative web projects.  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sakshi-borade-54a055252/) or boradesakshi494@gmail.com  
 - 😄 Pronouns: She/Her  
