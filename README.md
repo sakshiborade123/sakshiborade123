@@ -7,4 +7,4 @@
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I love building interactive web experiences and experimenting with new technologies.  
 
-Resume:https://sakshiborade123.github.io/Resume/
+Resume:[https://sakshiborade123.github.io/Resume/](https://sakshiborade123.github.io/Dynamic-Web-Based-Resume-and-Portfolio-Showcase-with-Interactive-UI/)
