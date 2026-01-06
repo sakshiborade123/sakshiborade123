@@ -52,6 +52,20 @@ Hi, I'm Sakshi Borade, a passionate full-stack web developer with a love for bui
 </div>
 
 
+## 🎮 Pac-Man Contribution Game
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sakshiborade123/sakshiborade123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sakshiborade123/sakshiborade123/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/sakshiborade123/sakshiborade123/output/pacman-contribution-graph.svg">
+</picture>
+
+_Generated with pacman-contribution-graph._
+
+
 
 
 
