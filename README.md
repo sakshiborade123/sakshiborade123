@@ -39,18 +39,6 @@ Hi, I'm Sakshi Borade, a passionate full-stack web developer with a love for bui
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=sakshiborade123&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=sakshiborade123&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-###
-
-## Connect with me
-
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/sakshi-borade-54a055252/" target="_blank">Sakshi Borade</a> Email: boradesakshi494@gmail.com</p>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
 
 ## 🎮 Pac-Man Contribution Game
 
@@ -63,7 +51,17 @@ Hi, I'm Sakshi Borade, a passionate full-stack web developer with a love for bui
     src="https://raw.githubusercontent.com/sakshiborade123/sakshiborade123/output/pacman-contribution-graph.svg">
 </picture>
 
-_Generated with pacman-contribution-graph._
+###
+
+## Connect with me
+
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/sakshi-borade-54a055252/" target="_blank">Sakshi Borade</a> Email: boradesakshi494@gmail.com</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 
 
